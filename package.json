@@ -13,7 +13,7 @@
     "ejs": "~2.5.5",
     "finalhandler": "^1.0.3",
     "lodash": "^3.10.1",
-    "request": ">=2.9.0",
+    "request": "~2.81.0",
     "sax": ">=0.6",
     "selectn": "^0.9.6",
     "serve-static": "^1.11.1",
